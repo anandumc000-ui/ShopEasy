@@ -346,6 +346,12 @@ body{
 .contact1 p{
     font-size: 17px;
 }
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    background-color: black;
+}
 
 
 
